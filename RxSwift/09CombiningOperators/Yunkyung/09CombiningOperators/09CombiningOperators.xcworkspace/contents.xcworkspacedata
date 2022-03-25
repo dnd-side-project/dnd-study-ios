@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:09CombiningOperators.playground">
+   </FileRef>
+   <FileRef
       location = "group:09CombiningOperators.xcodeproj">
    </FileRef>
    <FileRef
